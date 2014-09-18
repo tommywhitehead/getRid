@@ -1,7 +1,7 @@
 getRid
 ======
 
-Simple jQuery plugin that removes whitespace of empty elements (even if your CMS creates whitepsace in it!)
+Deceptively simple jQuery plugin with the sole purpose of removing elements that are not in use. The true beauty lies within it's use in Content Management Systems (CMS).
 
 
 USAGE:
@@ -14,5 +14,3 @@ EXAMPLE:
 ========
 
 $('.myDiv').getRid();
-
-
