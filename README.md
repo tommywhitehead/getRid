@@ -1,7 +1,7 @@
 getRid
 ======
 
-Deceptively simple jQuery plugin with the sole purpose of removing elements that are not in use. The true beauty lies within it's use in Content Management Systems (CMS) which leave unnecessary.
+Deceptively simple jQuery plugin with the sole purpose of removing elements that are not in use. The true beauty lies within it's use in Content Management Systems (CMS) which leave unnecessary whitespace.
 
 
 Usage:
